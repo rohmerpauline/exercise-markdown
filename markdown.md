@@ -2,20 +2,21 @@ Ceci est une liste dans une liste :
 ===================================
 
 * Couleurs
-        * Bleu
-        * Rouge
-        * Jaune
+	* Bleu
+	*  Rouge
+	* Jaune
 * Meubles
-        * Table
-        * Miroir
-        * Canapé
+	* Table
+	*  Miroir
+	*  Canapé
 * Vêtements
-        * Pantalon
-        * Jupe
-        * Pull
+	*  Pantalon
+	* Jupe
+	*  Pull
 
 
 Pour plus d'informations sur BeCode :
+------------------------------------
 
 (https://becode.org/fr/)
 
