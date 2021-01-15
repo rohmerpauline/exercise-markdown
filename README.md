@@ -3,4 +3,3 @@
 Voici la liste des membres du groupe : 
 --------------------------------------
 
-* Pauline Rohmer
