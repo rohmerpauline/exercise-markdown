@@ -1,5 +1,3 @@
-
-
 une liste de fruits aléatoire :
 
 <ul>
