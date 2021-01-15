@@ -1,3 +1,4 @@
+
 Ceci est une liste dans une liste :
 ===================================
 
@@ -19,6 +20,11 @@ Pour plus d'informations sur BeCode :
 ------------------------------------
 
 (https://becode.org/fr/)
+
+1. Paix-Dieu
+2. Orval
+3. Lupulus Bio
+4. Duvel
 
 **Une image :**
 
