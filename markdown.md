@@ -3,15 +3,15 @@
 
 
 
-** Une image : **
+**Une image :**
 
 ![https:/GitHub Logo](https://imgur.com/MkjMySg.png)
 
-** Une image animée : **
+**Une image animée :**
 
 ![Yep!](https://i.stack.imgur.com/1dpmw.gif)
 
-** Un bout de code : **
+**Un bout de code :**
 
 ```javascript
 function test() {
@@ -19,6 +19,6 @@ function test() {
 test();
 }
 ```
-** Un petit lien pour la forme : **
+**Un petit lien pour la forme :**
 
 [Let's go back, shall we ?](/README.md)
