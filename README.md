@@ -5,3 +5,4 @@ Voici la liste des membres du groupe :
 * Nicolas Enuset
 * MARC HOUTREILLE 
 * Pauline Rohmer
+* François Leleu
