@@ -22,3 +22,13 @@ test();
 **Un petit lien pour la forme :**
 
 [Let's go back, shall we ?](/README.md)
+
+une liste de fruits aléatoire :
+<ul>
+<li>pomme</li>
+<li>pastèque</li>
+<li>abricot</li>
+<li>pêche</li>
+<li>poire</li>
+<li>mangue</li>
+</ul>
