@@ -2,4 +2,4 @@
 
 Voici la liste des membres du groupe : 
 --------------------------------------
-* MARC HOUTREILLE 
+* Marc Houtreille 
