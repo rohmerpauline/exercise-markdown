@@ -3,3 +3,4 @@
 Voici la liste des membres du groupe : 
 --------------------------------------
 * MARC HOUTREILLE 
+* Pauline Rohmer
