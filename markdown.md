@@ -4,8 +4,6 @@
 3. Lupulus Bio
 4. Duvel
 
-
-
 **Une image :**
 
 ![https:/GitHub Logo](https://imgur.com/MkjMySg.png)
