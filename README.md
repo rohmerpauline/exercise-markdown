@@ -2,4 +2,8 @@
 
 Voici la liste des membres du groupe : 
 --------------------------------------
-* Marc Houtreille 
+* Nicolas Enuset
+* Marc Houtreille
+* Pauline Rohmer
+* François Leleu
+
