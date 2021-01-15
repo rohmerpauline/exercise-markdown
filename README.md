@@ -3,6 +3,7 @@
 Voici la liste des membres du groupe : 
 --------------------------------------
 * Nicolas Enuset
-* MARC HOUTREILLE 
+* Marc Houtreille
 * Pauline Rohmer
 * François Leleu
+
